@@ -11,7 +11,7 @@ const client = new Client({
 
 // إعدادات البوت الأساسية
 const PREFIX = '!';
-const TOKEN = 'MTU2MDU5NzcwMTkyODk1MTk0Mw.GoS5LS.sqPf0EVF-WfkjSiOdjjnoSNAtxO5F4FOuZHqis'; 
+const TOKEN = 'MTU2MDU5NzcwMTkyODk1MTk0Mw.GE5RY_.Yv3RmOv2BCb1rcnrSijejXmpR05WAULvSNrxbo'; 
 
 // اسم الرتبة واسم الشانل
 const JAIL_ROLE_NAME = 'Jail';
